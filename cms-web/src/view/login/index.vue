@@ -69,9 +69,9 @@
             >
           </el-form-item>
         </el-form>
-      </div>
-      <div class="login_panel_right" />
-      <div class="login_panel_foot">
+       </div>
+       <div class="login_panel_right" />
+       <div class="login_panel_foot">
         <div class="links">
           <a href="http://doc.henrongyi.top/" target="_blank">
             <img src="@/assets/docs.png" class="link-icon" />
